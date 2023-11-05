@@ -40,13 +40,9 @@ go build
 
 ```
 
-![image](https://github.com/neeltom92/go-scraper/assets/26869835/507be5cb-320b-45aa-9d20-1e3ec6bda4a5)
-
-
-![image](https://github.com/neeltom92/go-scraper/assets/26869835/5fe73e93-1c99-4260-9f59-296c15f7f4a7)
-
-<img width="1024" alt="image" src="https://github.com/neeltom92/go-scraper/assets/26869835/a4588769-c93a-4924-8072-2cfeebc0ae2c">
-
+<img src="https://github.com/neeltom92/go-scraper/assets/26869835/507be5cb-320b-45aa-9d20-1e3ec6bda4a5" width="500" alt="Image 1">
+<img src="https://github.com/neeltom92/go-scraper/assets/26869835/5fe73e93-1c99-4260-9f59-296c15f7f4a7" width="500" alt="Image 2">
+<img src="https://github.com/neeltom92/go-scraper/assets/26869835/a4588769-c93a-4924-8072-2cfeebc0ae2c" width="500" alt="Image 3">
 
 
 
