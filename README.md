@@ -45,5 +45,8 @@ go build
 
 ![image](https://github.com/neeltom92/go-scraper/assets/26869835/5fe73e93-1c99-4260-9f59-296c15f7f4a7)
 
+<img width="1024" alt="image" src="https://github.com/neeltom92/go-scraper/assets/26869835/a4588769-c93a-4924-8072-2cfeebc0ae2c">
+
+
 
 
