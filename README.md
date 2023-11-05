@@ -6,11 +6,13 @@ This is a Go program that uses the Selenium package to perform web scraping on a
 
 Before running this project, you need to have the following installed on your system:
 
-1. Go: Make sure you have Go installed on your machine. You can download and install it from [https://golang.org/dl/](https://golang.org/dl/).
+1. Go: Make sure you have Go installed on your machine. You can download and install it from [https://golang.org/dl/](https://golang.org/dl/)
 
-2. Chrome and ChromeDriver: You need Google Chrome and ChromeDriver installed on your system. You can download Chrome from [https://www.google.com/chrome/](https://www.google.com/chrome/) and ChromeDriver from [https://sites.google.com/a/chromium.org/chromedriver/downloads](https://sites.google.com/a/chromium.org/chromedriver/downloads).
+2. Ensure you have set the paths corretly [refer this blog on how to write Go code](https://go.dev/doc/code)
 
-3. Go Selenium Package: You'll need to install the Selenium package for Go. You can install it using the following command:
+3. Chrome and ChromeDriver: You need Google Chrome and ChromeDriver installed on your system. You can download Chrome from [https://www.google.com/chrome/](https://www.google.com/chrome/) and ChromeDriver from [https://sites.google.com/a/chromium.org/chromedriver/downloads](https://sites.google.com/a/chromium.org/chromedriver/downloads).
+
+4. Go Selenium Package: You'll need to install the Selenium package for Go. You can install it using the following command:
 
    ```shell
    go get github.com/tebeka/selenium
@@ -37,6 +39,11 @@ go build
 ./go-scraper https://google.com
 
 ```
-jvhgvhgj
+
+![image](https://github.com/neeltom92/go-scraper/assets/26869835/507be5cb-320b-45aa-9d20-1e3ec6bda4a5)
+
+
+![image](https://github.com/neeltom92/go-scraper/assets/26869835/5fe73e93-1c99-4260-9f59-296c15f7f4a7)
+
 
 
