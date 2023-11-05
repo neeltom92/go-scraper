@@ -17,9 +17,9 @@ Before running this project, you need to have the following installed on your sy
 
 ## How to Run Locally
 
-1. Clone the repository:
 
   ```shell
+1. Clone the repository:
   git clone git@github.com:neeltom92/go-scraper.git
   cd go-scraper
 
