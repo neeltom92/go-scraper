@@ -20,26 +20,21 @@ Before running this project, you need to have the following installed on your sy
 
   ```shell
 1. Clone the repository:
-  git clone git@github.com:neeltom92/go-scraper.git
-  cd go-scraper
 
-2. Open the main.go file and specify the correct path to your ChromeDriver executable in the code:
+git clone git@github.com:neeltom92/go-scraper.git
+cd go-scraper
 
-// Initialize a Chrome browser instance on port 4444, Replace "/path/to/chromedriver" with the actual path to your ChromeDriver executable.
-  
-   ```shell
-   service, err := selenium.NewChromeDriverService("/path/to/chromedriver", 4444)
+2. Open the main.go file and specify the correct path to your ChromeDriver executable in the code, Initialize a Chrome browser instance on port 4444, Replace "/path/to/chromedriver" with the actual path to your ChromeDriver executable.
+
+service, err := selenium.NewChromeDriverService("/path/to/chromedriver", 4444)
 
 3. Build the Go program:
 
-  ```shell
-  go build
-
+go build
 
 4. Run the program with the URL you want to scrape as a command-line argument. For example, to scrape "https://example.com," run:
 
-  ```shell
-  ./go-scraper https://google.com
+./go-scraper https://google.com
 
 
 
