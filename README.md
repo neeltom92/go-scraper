@@ -2,6 +2,8 @@
 
 This is a Go program that uses the Selenium package to perform web scraping on a specified webpage. It can be used to extract the raw HTML content from a webpage.
 
+[Why Selenium](https://www.browserstack.com/guide/web-scraping-using-selenium-python#:~:text=Web%20Scraping%20with%20Selenium%20allows%20you%20to%20gather%20all%20the%20required%20data%20using%20Selenium%20Webdriver%20Browser%20Automation.%20Selenium%20crawls%20the%20target%20URL%20webpage%20and%20gathers%20data%20at%20scale.%20This%20article%20demonstrates%20how%20to%20do%20web%20scraping%20using%20Selenium) ?
+
 ## Prerequisites
 
 Before running this project, you need to have the following installed on your system:
