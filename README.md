@@ -43,7 +43,7 @@ go build
 ## Example:
 
 
-1. Scraping google.com and checking for "Im Feeling Lucky" button
+1. For example here we are scraping google.com:
 
 <img src="https://github.com/neeltom92/go-scraper/assets/26869835/507be5cb-320b-45aa-9d20-1e3ec6bda4a5" width="800" alt="Image 1">
 <img src="https://github.com/neeltom92/go-scraper/assets/26869835/5fe73e93-1c99-4260-9f59-296c15f7f4a7" width="600" alt="Image 2">
